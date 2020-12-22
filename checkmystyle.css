@@ -10,16 +10,19 @@ body {
     color: white;
 }
 
-#what {}
+#what {
 
-#how {
-    
 }
 
-#benefits {
-    
+#how {
+}
+
+#benefits {    
 }
 
 #lastworks img{
     width: 100%
+}
+
+#contactus{
 }
