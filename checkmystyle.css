@@ -1,28 +1,22 @@
 body {
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 18px;
-    text-align: center;  
+    text-align: center;
 }
 
 #starthere {
     background-color: black;
-     
     color: white;
 }
 
-#what {
+#what {}
 
-}
+#how {}
 
-#how {
-}
+#benefits {}
 
-#benefits {    
-}
-
-#lastworks img{
+#lastworks img {
     width: 100%
 }
 
-#contactus{
-}
+#contactus {}
